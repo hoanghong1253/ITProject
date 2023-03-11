@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 file nay tren may tinh 1
+=======
+file  nay tren may tinh 2
+>>>>>>> 23c8db6a2f858b720013dcba8d35521b28e72552
