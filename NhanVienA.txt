@@ -4,4 +4,4 @@ noi dung o nhanh main
 
 noi dung them o nhanh A
 
-git bash...
+git bash... lan 2
