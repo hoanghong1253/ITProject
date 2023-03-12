@@ -11,3 +11,10 @@ dung source tree...lan 3
 thay doi o main lan 3.14
 
 thay doi tiep o main
+
+noi dung nhanh C
+
+thay doi tren nhanh main lan nua
+
+noi dung them o C
+NhanVienC
