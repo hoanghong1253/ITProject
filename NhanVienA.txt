@@ -11,3 +11,5 @@ dung source tree...lan 3
 noi dung nhanh C
 
 thay doi tren nhanh main lan nua
+
+noi dung them o C
