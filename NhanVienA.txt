@@ -9,3 +9,5 @@ git bash... lan 3
 dung source tree...lan 3
 
 noi dung nhanh C
+
+thay doi tren nhanh mainn...
