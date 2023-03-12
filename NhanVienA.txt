@@ -1,3 +1,7 @@
 noi dung thay doi tren day
 
 noi dung o nhanh main
+
+noi dung them o nhanh A
+
+git bash...
